@@ -2,14 +2,14 @@
     "version": 2,
     "builds": [
         {
-            "src": "youtube_helper/__main__.py",
+            "src": "youtube_helper/__init__.py",
             "use": "@vercel/python"
         }
     ],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "youtube_helper/__main__.py"
+            "dest": "youtube_helper/__init__.py"
         }
     ]
 }
