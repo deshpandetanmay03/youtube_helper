@@ -7,7 +7,7 @@ async function get_playlist() {
     let params = {
         url: channel
     };
-    let url = new URL('http://127.0.0.1:5000/get_playlist');
+    let url = new URL('/get_playlist');
     Object.keys(params).forEach(key => url.searchParams.append(key, params[key]));
     let final_url;
     let playlist = document.getElementById("playlist_url");
