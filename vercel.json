@@ -1,5 +1,9 @@
 {
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/youtube_helper/index" }
-  ]
+    "version": 2,
+    "builds": [
+        {"src": "youtube_helper/index.py", "use": "@vercel/python"}
+    ],
+    "routes": [
+        {"src": "/(.*)", "dest": "youtube_helper/index.py"}
+    ]
 }
