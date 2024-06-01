@@ -4,10 +4,10 @@ webhelper.sh
 youtube_helper/__pycache__/
 youtube_helper/*.py[cod]
 youtube_helper/*$py.class
-youtube_helper/
+
 # C extensions
 youtube_helper/*.so
-youtube_helper/
+
 # Distribution / packaging
 youtube_helper/.Python
 youtube_helper/build/
@@ -27,17 +27,17 @@ youtube_helper/*.egg-info/
 youtube_helper/.installed.cfg
 youtube_helper/*.egg
 youtube_helper/MANIFEST
-youtube_helper/
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 youtube_helper/*.manifest
 youtube_helper/*.spec
-youtube_helper/
+
 # Installer logs
 youtube_helper/pip-log.txt
 youtube_helper/pip-delete-this-directory.txt
-youtube_helper/
+
 # Unit test / coverage reports
 youtube_helper/htmlcov/
 youtube_helper/.tox/
@@ -52,57 +52,57 @@ youtube_helper/*.py,cover
 youtube_helper/.hypothesis/
 youtube_helper/.pytest_cache/
 youtube_helper/cover/
-youtube_helper/
+
 # Translations
 youtube_helper/*.mo
 youtube_helper/*.pot
-youtube_helper/
+
 # Django stuff:
 youtube_helper/*.log
 youtube_helper/local_settings.py
 youtube_helper/db.sqlite3
 youtube_helper/db.sqlite3-journal
-youtube_helper/
+
 # Flask stuff:
 youtube_helper/instance/
 youtube_helper/.webassets-cache
-youtube_helper/
+
 # Scrapy stuff:
 youtube_helper/.scrapy
-youtube_helper/
+
 # Sphinx documentation
 youtube_helper/docs/_build/
-youtube_helper/
+
 # PyBuilder
 youtube_helper/.pybuilder/
 youtube_helper/target/
-youtube_helper/
+
 # Jupyter Notebook
 youtube_helper/.ipynb_checkpoints
-youtube_helper/
+
 # IPython
 youtube_helper/profile_default/
 youtube_helper/ipython_config.py
-youtube_helper/
+
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
 #   intended to run in multiple environments; otherwise, check them in:
 # .python-version
-youtube_helper/
+
 # pipenv
 #598, it is recommended to include Pipfile.lock in version control.
 #   However, in case of collaboration, if having platform-specific dependencies or dependencies
 #   having no cross-platform support, pipenv may install dependencies that don't work, or not
 #   install all needed dependencies.
 #Pipfile.lock
-youtube_helper/
+
 # poetry
 #   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
 #   This is especially recommended for binary packages to ensure reproducibility, and is more
 #   commonly ignored for libraries.
 #commit-your-poetrylock-file-to-version-control
 #poetry.lock
-youtube_helper/
+
 # pdm
 #   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
 #pdm.lock
@@ -112,17 +112,17 @@ youtube_helper/
 youtube_helper/.pdm.toml
 youtube_helper/.pdm-python
 youtube_helper/.pdm-build/
-youtube_helper/
+
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
 youtube_helper/__pypackages__/
-youtube_helper/
+
 # Celery stuff
 youtube_helper/celerybeat-schedule
 youtube_helper/celerybeat.pid
-youtube_helper/
+
 # SageMath parsed files
 youtube_helper/*.sage.py
-youtube_helper/
+
 # Environments
 youtube_helper/.env
 youtube_helper/.venv
@@ -131,28 +131,28 @@ youtube_helper/venv/
 youtube_helper/ENV/
 youtube_helper/env.bak/
 youtube_helper/venv.bak/
-youtube_helper/
+
 # Spyder project settings
 youtube_helper/.spyderproject
 youtube_helper/.spyproject
-youtube_helper/
+
 # Rope project settings
 youtube_helper/.ropeproject
-youtube_helper/
+
 # mkdocs documentation
 youtube_helper//site
-youtube_helper/
+
 # mypy
 youtube_helper/.mypy_cache/
 youtube_helper/.dmypy.json
 youtube_helper/dmypy.json
-youtube_helper/
+
 # Pyre type checker
 youtube_helper/.pyre/
-youtube_helper/
+
 # pytype static type analyzer
 youtube_helper/.pytype/
-youtube_helper/
+
 # Cython debug symbols
 youtube_helper/cython_debug/
-youtube_helper/
+
