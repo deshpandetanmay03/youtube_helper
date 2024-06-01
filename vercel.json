@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/youtube_helper/__init__" }
+  ]
+}
