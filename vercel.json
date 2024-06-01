@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/youtube_helper/__init__" }
+    { "source": "/(.*)", "destination": "/youtube_helper/index" }
   ]
 }
