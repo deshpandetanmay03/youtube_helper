@@ -1,5 +1,15 @@
 webhelper.sh
 .vercel
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
 # Byte-compiled / optimized / DLL files
 youtube_helper/__pycache__/
 youtube_helper/*.py[cod]
